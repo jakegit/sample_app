@@ -1,0 +1,3 @@
+# RoR tut
+
+Sample app
